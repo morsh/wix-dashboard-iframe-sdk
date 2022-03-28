@@ -1,9 +1,9 @@
 {
   "name": "wix-dashboard-iframe-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./dist/src/index",
   "dependencies": {
-    "comlink": "^4.3.0"
+    "comlink": "4.3.0"
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
